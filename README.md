@@ -6,7 +6,7 @@
 - 📝 **[To-Do-List](https://github.com/Raibow-Master/To-Do-List)** - Daily Task Management App (JavaScript)
 - 🌐 **[Portfolio](https://raibow-master.github.io/Portfolio/)** - Personal Portfolio Website (Live Demo)
 - 📄 **[Menu-Page](https://github.com/Raibow-Master/Menu-Page)** - Restaurant Menu Page (HTML)
--
+-  💻 **[Cal-Calc](https://github.com/Raibow-Master/cal-calc)** - Calorie & BMR Calculator (C / CS50)
 
 <!--
 **Raibow-Master/Raibow-Master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
